@@ -72,6 +72,8 @@ WP Engine                       | Not vulnerable |                              
 Zendesk                           | Not vulnerable     | `Help Center Closed`                                                    | [Issue #23](https://github.com/EdOverflow/can-i-take-over-xyz/issues/23) | [Zendesk Support](https://support.zendesk.com/hc/en-us/articles/203664356-Changing-the-address-of-your-Help-Center-subdomain-host-mapping-)
 
 
+# All entries
+
 (by SHIFA)
 
 
